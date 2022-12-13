@@ -1,4 +1,4 @@
 # rpm-openresty
 rpm package\
 builder.sh запуск сборки\
-start.sh  запуск демона\
+start.sh  запуск демона
