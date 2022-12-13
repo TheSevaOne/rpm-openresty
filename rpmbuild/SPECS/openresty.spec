@@ -10,7 +10,7 @@ Prefix:         %{_prefix}
 Packager: 	Averkov Vsevolod 
 BuildRoot:      %{_tmppath}/%{name}-root
 BuildArch:	x86_64
-BuildRequires:	sed openssl-devel pcre-devel readline-devel  GeoIP-devel gcc perl(Data::Dumper) perl(Digest::MD5) 
+BuildRequires:	openssl-devel pcre-devel readline-devel  GeoIP-devel gcc perl(Data::Dumper) perl(Digest::MD5) 
 Requires:	openssl pcre readline 
 Source1:        	openresty.init
 %description
