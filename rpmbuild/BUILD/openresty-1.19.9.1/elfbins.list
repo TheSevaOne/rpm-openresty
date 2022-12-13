@@ -1,0 +1,7 @@
+.//usr/local/openresty/luajit/bin/luajit-2.1.0-beta3
+.//usr/local/openresty/luajit/lib/libluajit-5.1.so.2.1.0
+.//usr/local/openresty/lualib/cjson.so
+.//usr/local/openresty/lualib/librestysignal.so
+.//usr/local/openresty/lualib/redis/parser.so
+.//usr/local/openresty/lualib/rds/parser.so
+.//usr/local/openresty/nginx/sbin/nginx

@@ -1,0 +1,51 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/local
+%dir /usr/lib/debug/usr/local/openresty
+%dir /usr/lib/debug/usr/local/openresty/luajit
+%dir /usr/lib/debug/usr/local/openresty/luajit/bin
+%dir /usr/lib/debug/usr/local/openresty/luajit/lib
+%dir /usr/lib/debug/usr/local/openresty/lualib
+%dir /usr/lib/debug/usr/local/openresty/lualib/redis
+%dir /usr/lib/debug/usr/local/openresty/lualib/rds
+%dir /usr/lib/debug/usr/local/openresty/nginx
+%dir /usr/lib/debug/usr/local/openresty/nginx/sbin
+%dir /usr/lib/debug/usr/local/openresty/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/12
+%dir /usr/lib/debug/.build-id/9f
+%dir /usr/lib/debug/.build-id/c0
+%dir /usr/lib/debug/.build-id/7b
+%dir /usr/lib/debug/.build-id/07
+%dir /usr/lib/debug/.build-id/54
+%dir /usr/lib/debug/.build-id/d9
+%dir /usr/lib/debug/.build-id/74
+%dir /usr/lib/debug/.dwz
+/usr/lib/debug/usr/local/openresty/luajit/bin/luajit-2.1.0-beta3.debug
+/usr/lib/debug/usr/local/openresty/luajit/bin/luajit.debug
+/usr/lib/debug/usr/local/openresty/luajit/lib/libluajit-5.1.so.2.1.0.debug
+/usr/lib/debug/usr/local/openresty/luajit/lib/libluajit-5.1.so.debug
+/usr/lib/debug/usr/local/openresty/luajit/lib/libluajit-5.1.so.2.debug
+/usr/lib/debug/usr/local/openresty/lualib/cjson.so.debug
+/usr/lib/debug/usr/local/openresty/lualib/librestysignal.so.debug
+/usr/lib/debug/usr/local/openresty/lualib/redis/parser.so.debug
+/usr/lib/debug/usr/local/openresty/lualib/rds/parser.so.debug
+/usr/lib/debug/usr/local/openresty/nginx/sbin/nginx.debug
+/usr/lib/debug/usr/local/openresty/bin/openresty.debug
+/usr/lib/debug/.build-id/12/9bd7cd77ad1a410eb26176d4840832e8d0e01d
+/usr/lib/debug/.build-id/12/9bd7cd77ad1a410eb26176d4840832e8d0e01d.debug
+/usr/lib/debug/.build-id/9f/2b65a80f3915618a632ad83bbc238da0053d21
+/usr/lib/debug/.build-id/9f/2b65a80f3915618a632ad83bbc238da0053d21.debug
+/usr/lib/debug/.build-id/c0/ac8ac072db37990627425ae75db570ffe8021f
+/usr/lib/debug/.build-id/c0/ac8ac072db37990627425ae75db570ffe8021f.debug
+/usr/lib/debug/.build-id/7b/c8e62292d4a7f98ce45b5304876f514496a827
+/usr/lib/debug/.build-id/7b/c8e62292d4a7f98ce45b5304876f514496a827.debug
+/usr/lib/debug/.build-id/07/0fd71b0f337f362254539a77dfd94035cb1e12
+/usr/lib/debug/.build-id/07/0fd71b0f337f362254539a77dfd94035cb1e12.debug
+/usr/lib/debug/.build-id/54/b25dac511dcb5cb973856472f75f707a355f91
+/usr/lib/debug/.build-id/54/b25dac511dcb5cb973856472f75f707a355f91.debug
+/usr/lib/debug/.build-id/d9/dd886dcd3b821d9f7de7e5400ef6fad445c8b7
+/usr/lib/debug/.build-id/d9/dd886dcd3b821d9f7de7e5400ef6fad445c8b7.debug
+/usr/lib/debug/.build-id/74/99134ee468d8b05b061a51f1582796dc5abd77.debug
+/usr/lib/debug/.dwz/openresty-1.19.9.1-0.x86_64
+/usr/src/debug/openresty-1.19.9.1
